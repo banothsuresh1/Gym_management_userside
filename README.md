@@ -1,3 +1,21 @@
+#Gym management Video URl: 
+   
+             https://tinyurl.com/Gym-video
+
+#Website URL:
+ 
+  	     https://tinyurl.com/GymMS-bs
+
+#Front-end Git repo URL: 
+
+	    https://tinyurl.com/GYM-USide
+
+#Back-end Git repo URL:
+	
+	   https://tinyurl.com/Gym-Sside
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
